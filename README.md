@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpg" width="180" style="border-radius:50%;" alt="Hariharan" />
+  <img src="assets/profile-circle.png" width="180" alt="Hariharan" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
@@ -209,9 +209,7 @@ Responsive e-commerce interior design site with smooth animations and product ma
 - 🏅 UI/UX Design Fundamentals
 - 🏅 Python Programming
 
-> 🔧 Add certificate links/badges here as you earn more (Coursera, Udemy, NPTEL, etc.)
 
----
 
 <p align="center">
   📫 Reach me at <b>hariharanhsl336@gmail.com</b> | 📱 +91 9360242015
