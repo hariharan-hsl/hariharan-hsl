@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-circle.png" width="180" alt="Hariharan" />
+  <img src="profile-circle.png" width="180" alt="Hariharan" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
