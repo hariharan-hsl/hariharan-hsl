@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile.jpg" width="180" style="border-radius:50%;" alt="Hariharan" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | AI-Powered App Builder</h3>
 
@@ -162,6 +166,8 @@ Responsive e-commerce interior design site with smooth animations and product ma
 </p>
 
 ---
+
+> 🔧 If the stats images above don't load: double-check `hariharan-hsl` is your exact GitHub username, wait a few minutes (the stats service gets rate-limited), or refresh the page — GitHub caches README images.
 
 ### 💻 Coding Profiles
 
